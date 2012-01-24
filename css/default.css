@@ -190,12 +190,7 @@ list-style-type: none;
 padding:4px 0 4px 28px;
 }
 
-#sidebar ul#links li.github {
-background:transparent url(/images/github.png) no-repeat scroll 4px 2px;
-}
-#sidebar ul#links li.twitter {
-background:transparent url(/images/twitter.png) no-repeat scroll 4px 2px;
-}
+
 #sidebar ul#links li.facebook {
 background:transparent url(/images/facebook.png) no-repeat scroll 4px 2px;
 }
